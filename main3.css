@@ -1,0 +1,52 @@
+.container
+{
+    margin:3px;
+    min-height:200px;
+    background-color: red;
+    font-size:50px;
+    text-align:center;
+    width: 95%;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-shadow: 3px 2px green;
+    border-style: solid;
+    border-width: 5px;
+    
+    
+}
+ 
+.container1
+{
+    margin:3px;
+    float : center;
+    min-height:200px;
+    background-color:black;
+    font-size:large;
+    text-align:center;
+    width: 95%;
+    padding-top: 50px;
+}
+
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+   
+    text-align: left;
+ }
+ .navbar navbar-inverse, .nav navbar-nav, .arousel-inner,.container,.container1,.container mt-6,.container2
+ {
+  margin-left: 30px;
+
+ }
+ .b1
+ {  
+    
+    margin-left: 60px;
+    padding-top: 30px;
+    text-shadow: 3px 2px green;
+    
+
+ }
